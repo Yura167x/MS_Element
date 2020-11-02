@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "author": "React News - ReactJS & React Native",
+    "avatar": "https://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_200x200.png",
+    "text": "React Native VS Native: What to Choose For Cross-Platform App Development?",
+    "tags": ["#reactjs", "#angular", "#vuejs", "#javascript"],
+    "image": "https://pbs.twimg.com/card_img/1319719308046536717/Jaa_hEsh?format=jpg&name=small"
+  },
+  {
+    "id": 1,
+    "author": "React News - ReactJS & React Native",
+    "avatar": "https://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_200x200.png",
+    "text": "How we built a terminal interface for our conference using React",
+    "tags": ["#freecodecamp", "#100daysofcode", "#devcommunity", "#womenintech", "#developers", "#programming", "#webdevelopers", "#reactjs"],
+    "image": "https://pbs.twimg.com/card_img/1321505483086307329/GfeyyARl?format=jpg&name=small"
+  },
+  {
+    "id": 2,
+    "author": "React News - ReactJS & React Native",
+    "avatar": "https://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_200x200.png",
+    "text": "10 Minimalist Tumblr Themes for Your Tumblr Website | DroitThemes",
+    "tags": ["#freecodecamp", "#100daysofcode", "#devcommunity", "#womenintech", "#developers", "#reactjs"],
+    "image": "https://pbs.twimg.com/card_img/1321505483086307329/GfeyyARl?format=jpg&name=small"
+  },
+  {
+    "id": 3,
+    "author": "React News - ReactJS & React Native",
+    "avatar": "https://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_200x200.png",
+    "text": "Code scanning is now available! - The GitHub Blog",
+    "tags": ["#freecodecamp", "#100daysofcode", "#devcommunity", "#womenintech", "#developers", "#webdevelopers", "#reactjs"],
+    "image": "https://pbs.twimg.com/card_img/1321505483086307329/GfeyyARl?format=jpg&name=small"
+  },
+  {
+    "id": 4,
+    "author": "React News - ReactJS & React Native",
+    "avatar": "https://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_200x200.png",
+    "text": "White Label Mobile App with React Native and Babel | by Jaroslaw Marek | Sep, 2020 | Level Up Coding",
+    "tags": ["#freecodecamp", "#100daysofcode", "#devcommunity", "#womenintech", "#developers", "#programming", "#webdevelopers", "#reactjs", "#cli"],
+    "image": "https://pbs.twimg.com/card_img/1321505483086307329/GfeyyARl?format=jpg&name=small"
+  },
+  {
+    "id": 5,
+    "author": "React News - ReactJS & React Native",
+    "avatar": "https://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_200x200.png",
+    "text": "Is React Native Good for Mobile App Development? 10 Reasons Why",
+    "tags": ["#freecodecamp", "#womenintech", "#developers", "#programming", "#webdevelopers", "#reactjs"],
+    "image": "https://pbs.twimg.com/card_img/1321505483086307329/GfeyyARl?format=jpg&name=small"
+  }
+]
